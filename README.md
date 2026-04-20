@@ -1,5 +1,3 @@
-https://github.com/GerardMotak/SymPy_skills/blob/main/Exam_Problems.ipynb
-
 
 
 | Notebook | Open in Colab |
