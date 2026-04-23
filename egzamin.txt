@@ -1,5 +1,5 @@
-- równania różniczkowe,  na znalezienie równowag i stabilności rownowag
+1) Differential equations: finding equilibria and analyzing their stability
 
-- optymalizacja firmy / konsumenta 
+2) Optimization problems of a firm or a consumer
 
-- nieliniowego układu rownan różniczkowych i znalezienie równowag i zbada
+3) Nonlinear systems of differential equations: finding equilibria and studying their stability
