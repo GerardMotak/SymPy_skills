@@ -1,0 +1,5 @@
+- równania różniczkowe,  na znalezienie równowag i stabilności rownowag
+
+- optymalizacja firmy / konsumenta 
+
+- nieliniowego układu rownan różniczkowych i znalezienie równowag i zbada
